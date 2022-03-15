@@ -1,3 +1,1 @@
-# Data-Analyst-test
-Repository for academic purpose
-# Example of README
+# Example of README.md
